@@ -1,0 +1,7 @@
+E:\Users\0040838\Desktop\Prova - Debi Junia\Prova2\bin\Debug\Prova2.exe.config
+E:\Users\0040838\Desktop\Prova - Debi Junia\Prova2\bin\Debug\Prova2.exe
+E:\Users\0040838\Desktop\Prova - Debi Junia\Prova2\bin\Debug\Prova2.pdb
+E:\Users\0040838\Desktop\Prova - Debi Junia\Prova2\obj\Debug\Prova2.csproj.AssemblyReference.cache
+E:\Users\0040838\Desktop\Prova - Debi Junia\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.cache
+E:\Users\0040838\Desktop\Prova - Debi Junia\Prova2\obj\Debug\Prova2.exe
+E:\Users\0040838\Desktop\Prova - Debi Junia\Prova2\obj\Debug\Prova2.pdb
