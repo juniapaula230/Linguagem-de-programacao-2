@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TWI73c46oIDcRCPdWyFp6h859ctxYxle2UgRy9uCT94cIWc7FEyPM6pm9M7t6bOokIp9yTSzvb+cYAVMQ3VKDA==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\0040838\\Desktop\\Atividade Palhaço\\AppPalhaco\\AppPalhaco\\AppPalhaco.csproj",
+  "expectedPackageFiles": [
+    "E:\\Users\\0040838\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "E:\\Users\\0040838\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "E:\\Users\\0040838\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "E:\\Users\\0040838\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
