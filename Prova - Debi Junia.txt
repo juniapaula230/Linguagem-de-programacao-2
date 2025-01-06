@@ -1,0 +1,178 @@
+QUESTÃO 1:
+namespace PA
+{
+    internal class Program
+    {
+        class PA
+        {
+            static void Main(string[] args)
+            {
+                Console.WriteLine("Digite o primeiro termo (a):");
+                double a = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Digite o último termo (an):");
+                double an = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Digite o número de termos (N):");
+                double n = Convert.ToInt32(Console.ReadLine());
+
+                double soma = SomaProgressaoAritmetica(a, an, n);
+
+                Console.WriteLine("A soma da progressão aritmética é: " + soma);
+            }
+
+            static double SomaProgressaoAritmetica(double a, double an, double n)
+            {
+                return (a + an) * n / 2;
+            }
+        }
+    }
+}
+
+QUESTÃO 2:
+namespace Nota01
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Digite a nota do aluno:");
+            double nota = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Digite a porcentagem de frequência do aluno:");
+            double frequencia = Convert.ToDouble(Console.ReadLine());
+
+            if (nota >= 60 && frequencia > 75)
+            {
+                Console.WriteLine("APROVADO");
+            }
+            else if (nota < 60 && frequencia > 75)
+            {
+                Console.WriteLine("REPROVADO POR NOTA");
+            }
+            else if (nota >= 60 && frequencia <= 75)
+            {
+                Console.WriteLine("REPROVADO POR FREQUÊNCIA");
+            }
+            else
+            {
+                Console.WriteLine("REPROVADO POR NOTA E FREQUÊNCIA");
+            }
+        }
+    }
+}
+
+
+QUESTÃO 3:
+namespace Volume
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Digite o valor do raio da lata de óleo:");
+            double raio = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Digite o valor da altura da lata de óleo:");
+            double altura = Convert.ToDouble(Console.ReadLine());
+
+            double volume = 3.1415169 * Math.Pow(raio, 2) * altura;
+
+            Console.WriteLine("O volume da lata de óleo é: " + volume);
+        }
+    }
+}
+
+QUESTÃO 4: 
+namespace Triangular
+
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Digite um número para verificar se é triangular:");
+            double numero = Convert.ToInt32(Console.ReadLine());
+
+            bool ehTriangular = VerificarNumeroTriangular(numero);
+
+            if (ehTriangular)
+            {
+                Console.WriteLine(numero + " é triangular.");
+            }
+            else
+            {
+                Console.WriteLine(numero + " não é triangular.");
+            }
+        }
+
+        static bool VerificarNumeroTriangular(double numero)
+        {
+            double produto = 1;
+            double i = 1;
+
+            while (produto < numero)
+            {
+                produto = i * (i + 1) * (i + 2);
+                if (produto == numero)
+                {
+                    return true;
+                }
+                i++;
+            }
+
+            return false;
+        }
+    }
+}
+
+
+QUESTÃO 5:
+namespace Pedido
+{
+    internal class Program
+    {
+        private static object value;
+
+        static void Main(string[] args)
+        {
+            double valorTotal = 0;
+
+            while (true)
+            {
+                Console.WriteLine("Digite o número do pedido (ou zero para encerrar):");
+                double numeroPedido = Convert.ToInt32(Console.ReadLine());
+
+                if (numeroPedido == 0)
+                {
+                    break; //ENCERRAR O LOOP SE O NÚMERO DO PEDIDO FOR 0
+                }
+
+                Console.WriteLine("Digite a data do pedido (dia, mês, ano):");
+                Console.Write("Dia: ");
+                double dia = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Mês: ");
+                double mes = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Ano: ");
+                double ano = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Digite o preço unitário:");
+                double precoUnitario = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("Digite a quantidade:");
+                double quantidade = Convert.ToInt32(Console.ReadLine());
+
+                double subtotal = precoUnitario * quantidade;
+                valorTotal += subtotal;
+
+                Console.WriteLine("Pedido número: " + numeroPedido);
+                Console.WriteLine("Data do pedido: " + dia + "/" + mes + "/" + ano);
+                Console.WriteLine("Preço unitário: " + precoUnitario);
+                Console.WriteLine("Quantidade: " + quantidade);
+                Console.WriteLine("Subtotal: " + subtotal);
+            }
+
+            Console.WriteLine("O valor total da compra é: " + valorTotal);
+        }
+    }
+}
