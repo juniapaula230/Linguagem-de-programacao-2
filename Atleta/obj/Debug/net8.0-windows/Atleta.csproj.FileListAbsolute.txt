@@ -1,0 +1,16 @@
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\Atleta.Form1.resources
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\Atleta.csproj.GenerateResource.cache
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\Atleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\Atleta.AssemblyInfoInputs.cache
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\Atleta.AssemblyInfo.cs
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\Atleta.csproj.CoreCompileInputs.cache
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\bin\Debug\net8.0-windows\Atleta.exe
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\bin\Debug\net8.0-windows\Atleta.deps.json
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\bin\Debug\net8.0-windows\Atleta.runtimeconfig.json
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\bin\Debug\net8.0-windows\Atleta.dll
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\bin\Debug\net8.0-windows\Atleta.pdb
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\Atleta.dll
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\refint\Atleta.dll
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\Atleta.pdb
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\Atleta.genruntimeconfig.cache
+C:\Users\junia\OneDrive\Área de Trabalho\Atleta\obj\Debug\net8.0-windows\ref\Atleta.dll
