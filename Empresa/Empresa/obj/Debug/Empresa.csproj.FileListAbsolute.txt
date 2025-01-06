@@ -1,0 +1,13 @@
+C:\Users\amand\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\amand\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe
+C:\Users\amand\source\repos\Empresa\Empresa\bin\Debug\Empresa.pdb
+C:\Users\amand\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\amand\source\repos\Empresa\Empresa\obj\Debug\Empresa.Form1.resources
+C:\Users\amand\source\repos\Empresa\Empresa\obj\Debug\Empresa.Properties.Resources.resources
+C:\Users\amand\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.GenerateResource.cache
+C:\Users\amand\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\Empresa\Empresa\obj\Debug\Empresa.exe
+C:\Users\amand\source\repos\Empresa\Empresa\obj\Debug\Empresa.pdb
+C:\Users\junia\OneDrive\Área de Trabalho\Empresa\Empresa\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\junia\OneDrive\Área de Trabalho\Empresa\Empresa\Empresa\obj\Debug\Empresa.exe
+C:\Users\junia\OneDrive\Área de Trabalho\Empresa\Empresa\Empresa\obj\Debug\Empresa.pdb
